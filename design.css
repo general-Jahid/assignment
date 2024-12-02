@@ -3,6 +3,10 @@
     margin: 0px;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .all{
     max-width: 1000px;
     background-color: rgb(227, 232, 237);
